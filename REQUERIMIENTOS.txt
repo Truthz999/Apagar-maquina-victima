@@ -1,0 +1,2 @@
+1) pyautogui
+2) time
