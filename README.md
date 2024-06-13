@@ -21,3 +21,4 @@ time.sleep(2)
 
 pyautogui.write("shutdown -s -t 2") 
 pyautogui.press("enter")
+```
